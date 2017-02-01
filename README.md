@@ -6,7 +6,7 @@ The lineament is a linear feature describing discontinuity in a landscape. The l
 * Requirements: python3 
 
 * Usage:
-    ``$python3 __main__.py [-h] <input file path> <border X> <border Y> <output file path>``
+    ``$LineamentExtraction.exe <input file path> <border X> <border Y> <output file path>``
     
 * Where:
     ``<input file path>``  - path to input file
@@ -16,4 +16,4 @@ The lineament is a linear feature describing discontinuity in a landscape. The l
     ``<output file path>`` - path to output file
     
 * Example:
-    ``$python3 __main__.py C:\Data\input.txt 150 200 20 C:\Data\result.txt``
+    ``$LineamentExtraction.exe C:\Data\input.txt 150 200 20 C:\Data\result.txt``

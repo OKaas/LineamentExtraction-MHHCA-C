@@ -11,3 +11,6 @@ D:\__gDrive\__PHD\Coding\GIS_2013_line_to_paper\GIS_2013\obj\Debug\LineamentExtr
 D:\__gDrive\__PHD\Coding\LineamentExtraction\LineamentExtraction\bin\Debug\LineamentExtraction.exe.config
 D:\__gDrive\__PHD\Coding\LineamentExtraction\LineamentExtraction\obj\Debug\LineamentExtraction.exe
 D:\__gDrive\__PHD\Coding\LineamentExtraction\LineamentExtraction\obj\Debug\LineamentExtraction.pdb
+D:\__gDrive\__PHD\Coding\LineamentExtraction-MHHCA-C\LineamentExtraction\bin\Debug\LineamentExtraction.exe.config
+D:\__gDrive\__PHD\Coding\LineamentExtraction-MHHCA-C\LineamentExtraction\obj\Debug\LineamentExtraction.exe
+D:\__gDrive\__PHD\Coding\LineamentExtraction-MHHCA-C\LineamentExtraction\obj\Debug\LineamentExtraction.pdb
