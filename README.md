@@ -18,3 +18,6 @@ The lineament is a linear feature describing discontinuity in a landscape. The l
     
 ###### Example:
 	$LineamentExtraction.exe C:\Data\input.txt 150 200 20 C:\Data\result.txt
+
+### Input data:
+* [MHHCA-C#-Input](https://github.com/OKaas/LineamentExtraction-MHHCA-Input)
