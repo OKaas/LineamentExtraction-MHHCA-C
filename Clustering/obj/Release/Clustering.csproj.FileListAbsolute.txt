@@ -1,0 +1,5 @@
+C:\WWrka\__PROGRAMOVANI\GIS\GIS_2013\Clustering\bin\Release\Clustering.dll
+C:\WWrka\__PROGRAMOVANI\GIS\GIS_2013\Clustering\bin\Release\Clustering.pdb
+C:\WWrka\__PROGRAMOVANI\GIS\GIS_2013\Clustering\obj\Release\Clustering.dll
+C:\WWrka\__PROGRAMOVANI\GIS\GIS_2013\Clustering\obj\Release\Clustering.pdb
+C:\WWrka\__PROGRAMOVANI\GIS\GIS_2013\Clustering\obj\Release\Clustering.csprojResolveAssemblyReference.cache

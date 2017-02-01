@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lineament-Extraction", "LineamentExtraction\Lineament-Extraction.csproj", "{1A1AEDA2-1A18-47D9-AFE6-745F398FECBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clustering", "Clustering\Clustering.csproj", "{2DC44644-6D15-467D-8E0D-0384D54B832F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{187BA670-368A-430C-8331-265EE4D8B8D9}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A1AEDA2-1A18-47D9-AFE6-745F398FECBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A1AEDA2-1A18-47D9-AFE6-745F398FECBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A1AEDA2-1A18-47D9-AFE6-745F398FECBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A1AEDA2-1A18-47D9-AFE6-745F398FECBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DC44644-6D15-467D-8E0D-0384D54B832F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DC44644-6D15-467D-8E0D-0384D54B832F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DC44644-6D15-467D-8E0D-0384D54B832F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DC44644-6D15-467D-8E0D-0384D54B832F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
